@@ -3,6 +3,8 @@ import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 import os
+from Article_Jungang import scrape_jungang_articles
+from Article_Yomiuri import scrape_yomiuri_articles
 from Both_loader import load_and_initialize_data
 from Classifier import classify_titles_with_general_labels
 from Data_selector import select_korean_japanese_pair
@@ -18,6 +20,14 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 # Main workflow for Streamlit app
 def main():
     st.title("Korean-Japanese Article Analysis and Neutral Article Generation")
+
+    # Scrape Yomiuri articles
+    if st.button("Scrape Yomiuri Articles"):
+        scrape_yomiuri_articles()
+
+    # Scrape Jungang articles
+    if st.button("Scrape Jungang Articles"):
+        scrape_jungang_articles()
 
     # Load and initialize data
     if "combined_df" not in st.session_state:
