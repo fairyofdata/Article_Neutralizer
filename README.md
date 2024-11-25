@@ -27,8 +27,8 @@
 
 1. **프로젝트 클론**
    ```bash
-   git clone https://https://github.com/fairyofdata/Neutral_Article_KJ
-   cd Neutral_Article_KJ
+   git clone https://https://github.com/fairyofdata/Article_Neutralizer
+   cd Article_Neutralizer
    ```
 
 2. **필수 라이브러리 설치**
