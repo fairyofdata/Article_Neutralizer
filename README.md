@@ -1,4 +1,4 @@
-# 한일관계 중립기사 자동생성기📰🤝🤖
+# LLM 기반 한일관계 중립기사 자동생성기📰🤝🤖
 
 > **[경요세계(瓊瑤世界)](https://www.seoul.co.kr/news/editOpinion/world-stories/2024/07/12/20240712035005) : '두 옥구슬이 서로를 비추다'** </br>‐ 1643년 천문학자 [박안기(朴安期)](https://encykorea.aks.ac.kr/Article/E0020900)가 시즈오카현 청견사에 남긴 2층 종루 현판의 문장</br>
 > **[성신교린(誠信交隣](https://www.donga.com/news/People/article/all/20210416/106434451/1)[)](https://www.tokyo-np.co.jp/article/324411) : '성실과 진심으로써 교류하다'** </br>‐ 1728년 [아메노모리 호슈(雨森芳洲)](https://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04203537)가 부산 초량왜관에서 집필한 「교린제성」의 문장
