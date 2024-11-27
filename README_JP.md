@@ -46,8 +46,8 @@
 
 1. **プロジェクトをクローン**
    ```bash
-   git clone https://github.com/fairyofdata/Article_Neutralizer
-   cd Article_Neutralizer
+   git clone https://github.com/fairyofdata/LLM_NAKOJA
+   cd LLM_NAKOJA
    ```
 
 2. **必要なライブラリをインストール**
