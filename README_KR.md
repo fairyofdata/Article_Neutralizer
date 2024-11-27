@@ -32,8 +32,8 @@
 
 1. **프로젝트 클론**
    ```bash
-   git clone https://https://github.com/fairyofdata/Article_Neutralizer
-   cd Article_Neutralizer
+   git clone https://https://github.com/fairyofdata/LLM_NAKOJA
+   cd LLM_NAKOJA
    ```
 
 2. **필수 라이브러리 설치**
