@@ -22,7 +22,7 @@ This project aims to provide a neutral perspective on Korea-Japan relations by c
 - Expand coverage to include **Joongang, Kyunghyang, Asahi, and Yomiuri**, incorporating political biases from both sides to ensure comprehensive neutrality.
 - Cluster crawled articles by topic and generate neutral articles reflecting multifaceted perspectives using OpenAI API.  
 - The service is built on Streamlit, allowing users to experience each step directly.  
-- **Preview** the entire process [here](https://github.com/fairyofdata/Article_Neutralizer/blob/master/NAKOJA_Preview.png) if executing it yourself is cumbersome.  
+- **[Preview](https://github.com/fairyofdata/Article_Neutralizer/blob/master/NAKOJA_Preview.png)** the entire process if executing it yourself is cumbersome.  
 
 ---
 
