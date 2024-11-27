@@ -4,9 +4,9 @@
 # LLM-Based Korea-Japan Relations Neutral Article Generator 📰🤝🤖
 
 > **[경요세계(瓊瑤世界)](https://www.seoul.co.kr/news/editOpinion/world-stories/2024/07/12/20240712035005): 'Two Jade Orbs Reflecting Each Other'**  
-‐ Inscription on the two-story bell tower left by astronomer [Park An-Gi (朴安期)](https://encykorea.aks.ac.kr/Article/E0020900) in Shizuoka’s Seikenji Temple, 1643  
+‐ Inscription on the two-story bell tower left by astronomer [Park An-Gi](https://encykorea.aks.ac.kr/Article/E0020900) in Shizuoka’s Seikenji Temple, 1643  
 > **[성신교린(誠信交隣)](https://www.donga.com/news/People/article/all/20210416/106434451/1): 'Exchange with Sincerity and Trust'**  
-‐ Written by [Amenomori Hōshū (雨森芳洲)](https://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04203537) in the book「Kyoryo Seisei」 at Busan Choryang Japanese dormitory, 1728  
+‐ Written by [Amenomori Hōshū](https://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04203537) in the book「Kyoryo Seisei」 at Busan Choryang Japanese dormitory, 1728  
 
 ---
 
