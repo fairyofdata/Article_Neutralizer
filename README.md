@@ -1,3 +1,6 @@
+**🌐 Available README Versions:**  
+[🇰🇷 한국어 (Korean)](https://github.com/fairyofdata/LLM_NAKOJA/blob/master/README_KR.md) | [🇯🇵 日本語 (Japanese)](https://github.com/fairyofdata/LLM_NAKOJA/blob/master/README_JP.md)  
+
 # LLM-Based Korea-Japan Relations Neutral Article Generator 📰🤝🤖
 
 > **[경요세계(瓊瑤世界)](https://www.seoul.co.kr/news/editOpinion/world-stories/2024/07/12/20240712035005): 'Two Jade Orbs Reflecting Each Other'**  
