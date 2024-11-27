@@ -18,7 +18,7 @@ This project aims to provide a neutral perspective on Korea-Japan relations by c
 
 ## 📖 **Project Overview**
 
-- Crawl news articles with specific keywords which means Korea-Japan relations ("한일" in Korean, "日韓" in Japanese) from **[Joongang Ilbo](https://www.joongang.co.kr/)** and **[Yomiuri Shimbun](https://www.yomiuri.co.jp/)**.
+- Crawl news articles with specific keywords which means Korea-Japan relations from **[Joongang Ilbo](https://www.joongang.co.kr/)** and **[Yomiuri Shimbun](https://www.yomiuri.co.jp/)**.
 - Expand coverage to include **Joongang, Kyunghyang, Asahi, and Yomiuri**, incorporating political biases from both sides to ensure comprehensive neutrality.
 - Cluster crawled articles by topic and generate neutral articles reflecting multifaceted perspectives using OpenAI API.  
 - The service is built on Streamlit, allowing users to experience each step directly.  
@@ -28,7 +28,7 @@ This project aims to provide a neutral perspective on Korea-Japan relations by c
 
 ## **Key Features**
 
-- **Article Crawling**: Gather article lists and full content from Korean and Japanese media based on specific keywords.  
+- **Article Crawling**: Gather article lists and full content from Korean and Japanese media based on specific keywords ("한일" in Korean, "日韓" in Japanese) .  
 - **Data Classification**: Cluster articles by topics for categorization.  
 - **Summarization**: Summarize the core content of selected articles.  
 - **Neutral Article Generation**: Generate articles with neutral perspectives based on the summaries.  
