@@ -19,6 +19,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 # Main workflow for Streamlit app
 def main():
+
     st.title("🌏 **Korean-Japanese Article Analysis and Neutral Article Generation** 🌏")
     st.markdown(
         """
@@ -31,6 +32,21 @@ def main():
     )
 
     st.divider()  # Visually separate sections
+    # OpenAI API 키 설정: .env 또는 사용자 입력
+    st.markdown("### 🔑 OpenAI API Secret Key setting")
+    api_key = os.getenv("OPENAI_API_KEY")  # .env에서 키 가져오기
+
+    if not api_key:  # .env에 키가 없는 경우 사용자 입력 요청
+        api_key = st.text_input("Please create your own key from openai platform and input cell:", type="password")
+        if not api_key:
+            st.warning("⚠️ This Service need OpenAI API Key. If you just know entire process, please watch Github Readme file and select 'PREVIEW' button.")
+            return
+
+    openai.api_key = api_key  # OpenAI API 키 설정
+
+    st.success("✅ We have VALID OpenAI API key.")
+
+    st.divider()
 
     # Section 1: Article Scraping
     st.header("📥 **Step 1: Article Scraping**")
