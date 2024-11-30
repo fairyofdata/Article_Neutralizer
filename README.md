@@ -70,6 +70,11 @@ This project aims to provide a neutral perspective on Korea-Japan relations by c
 ## 🖥️ **Feature Usage Guide**  
 ⚠️ *Note: Prompt optimization is in progress.*  
 
+### **Set Up Your OpenAI API Key**
+   - This app uses the OpenAI API for functionality.
+   - When you run the app, you will see a field to input your OpenAI API key.  
+   - You can obtain your API key from the [OpenAI API Key Page](https://platform.openai.com/account/api-keys).
+
 ### 1. **Start Crawling**  
    - Click **"Collect Joongang Articles"** or **"Collect Yomiuri Articles"** to gather news articles.  
    - Articles matching keywords which means Korea-Japan relations ("한일" in Korean, "日韓" in Japanese) are collected.  
