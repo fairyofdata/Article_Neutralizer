@@ -52,6 +52,11 @@
 ## 🖥️ 기능별 사용 방법
 ⚠️Alert: 프롬프트 최적화 중입니다.
 
+### **OpenAI API 키 설정 방법**
+   - 이 앱은 OpenAI API를 사용하여 동작합니다.  
+   - 앱을 실행하면 OpenAI API 키를 입력할 수 있는 필드가 표시됩니다.  
+   - OpenAI API 키는 [OpenAI API 키 페이지](https://platform.openai.com/account/api-keys)에서 발급받을 수 있습니다.
+
 ### 1. **크롤링 시작**
    - 기사를 수집하려면 **Jungang 기사 수집** 또는 **Yomiuri 기사 수집** 버튼을 누릅니다.
    - 각 언론사로부터 키워드(각각 '한일', '日韓')에 맞는 기사가 수집됩니다.
