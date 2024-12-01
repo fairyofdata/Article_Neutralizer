@@ -68,7 +68,7 @@ This project aims to provide a neutral perspective on Korea-Japan relations by c
 ---
 
 ## 🖥️ **Feature Usage Guide**  
-⚠️ *Note: Prompt optimization is in progress.*  
+⚠️ *Note: LLM Prompt optimization is in progress.*  
 
 ### **Set Up Your OpenAI API Key**
    - This app uses the OpenAI API for functionality.
