@@ -7,7 +7,6 @@
 ‐ Inscription on the two-story bell tower left by astronomer [Park An-Gi](https://encykorea.aks.ac.kr/Article/E0020900) in Shizuoka’s Seikenji Temple, 1643  
 > **[성신교린(誠信交隣)](https://www.donga.com/news/People/article/all/20210416/106434451/1): 'Exchange with Sincerity and Trust'**  
 ‐ Written by [Amenomori Hōshū](https://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04203537) in the book「Kyoryo Seisei」 at Busan Choryang Japanese dormitory, 1728  
-
 ---
 
 ## **Project Objective**
